@@ -63,7 +63,7 @@ RiskScore — A rule-based 0–5 score built from 5 risk flags
 
 Calculated default rates across all segments using Pandas groupby() aggregations. Combined segments (income × utilization) to identify the highest-risk borrower profiles.
 
-#Step 4 — Visualizations
+# Step 4 — Visualizations
 
 Bar charts for default rate by age, income, utilization, and risk score
 
